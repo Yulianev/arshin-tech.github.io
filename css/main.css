@@ -234,7 +234,7 @@ body {
    border-radius: 20px;
    background:#97AAC6;
    
-   animation: animate 20s linear infinite alternate; 
+   animation: animate 60s linear infinite alternate; 
    font-size: 25px;
    color: #FFF;
 }
